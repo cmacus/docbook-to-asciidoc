@@ -22,3 +22,7 @@ This an XSL stylesheet , which converts only a small subset of docbook
 * indexterm
 * foreignphrase
 * programlisting | literallayout | computeroutput
+
+## Instructions
+
+`xsltproc db2adoc.xsl hello.xml > hello.adoc`
